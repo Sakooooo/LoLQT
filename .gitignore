@@ -46,3 +46,7 @@ _deps
 *.out
 *.app
 ## end c++
+
+## begin local
+/build*
+## end local
